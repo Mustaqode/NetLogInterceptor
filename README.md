@@ -36,11 +36,10 @@ dependencies {
  ```
  ## That's it! You are good to go. 
  
- Open your app (probably beta build), and start using it as usual; all the nertwork calls made will be automatically logged 
- in a text file.
+ Open your app (probably beta build), and start using it as usual; all the network calls made in your app will be    automatically logged in a text file.
  
  #### You will find the file in `Android` -> `Your app` -> `files` -> `Netlog` -> `Netlog.txt`
  
  
- ## Thanks you for visiting this page!
+ ## Thank you for visiting this page!
 
